@@ -6,11 +6,13 @@ import ActiveStatus from './components/ActiveStatus'
 
 import './globals.css'
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Multilingual Chat App',
   description: 'A chat app with support for multiple languages',
+  icon: "/images/logo.png",
 }
 
 export default function RootLayout({
