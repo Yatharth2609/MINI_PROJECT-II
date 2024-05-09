@@ -9,8 +9,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Messenger Clone',
-  description: 'Messenger Clone',
+  title: 'Multilingual Chat App',
+  description: 'A chat app with support for multiple languages',
 }
 
 export default function RootLayout({
